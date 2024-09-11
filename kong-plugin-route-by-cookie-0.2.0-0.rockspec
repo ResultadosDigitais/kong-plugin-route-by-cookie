@@ -2,7 +2,7 @@ package = "kong-plugin-route-by-cookie"
 version = "0.2.0-0"
 
 source = {
-   url = "git://github.com/redhoyasa/kong-plugin-route-by-cookie.git",
+   url = "git+https://github.com/redhoyasa/kong-plugin-route-by-cookie.git",
    tag = "v0.2.0"
 }
 
