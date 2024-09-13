@@ -13,7 +13,7 @@ description = {
 }
 
 dependencies = {
-  "lua >= 5.1"
+  "lua >= 5.1",
   "lua-resty-cookie ~> 0.1.0"
 }
 
